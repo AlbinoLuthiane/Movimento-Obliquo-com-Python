@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:D:/python/Projeto TCC/media/videos/obliquo/1080p60/partial_movie_files/MovimentoObliquo/3529212410_2740327450_223132457.mp4'
+file 'file:D:/python/Projeto TCC/media/videos/obliquo/1080p60/partial_movie_files/MovimentoObliquo/3040924799_1240325202_2935197430.mp4'
+file 'file:D:/python/Projeto TCC/media/videos/obliquo/1080p60/partial_movie_files/MovimentoObliquo/3040924799_3033220867_1528112869.mp4'
+file 'file:D:/python/Projeto TCC/media/videos/obliquo/1080p60/partial_movie_files/MovimentoObliquo/3040924799_3628152899_1224945542.mp4'
+file 'file:D:/python/Projeto TCC/media/videos/obliquo/1080p60/partial_movie_files/MovimentoObliquo/3040924799_2408024828_1821969086.mp4'
