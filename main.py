@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 
 
 # Titulo
-st.title("Movimento Oblíquo com Manim")
+st.title("Movimento Oblíquo com Python")
 
 # Inicializa o estado da interface (só uma vez)
 if "mostrar_video" not in st.session_state:

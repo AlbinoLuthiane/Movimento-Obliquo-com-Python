@@ -1,6 +1,6 @@
 # This file is used internally by FFMPEG.
 file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/1185818338_2740327450_223132457.mp4'
 file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_1240325202_2935197430.mp4'
-file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_1657509684_365477355.mp4'
-file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_896289205_3165642900.mp4'
-file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_2408024828_1807714388.mp4'
+file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_590273707_1639198772.mp4'
+file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_1930173706_2731978919.mp4'
+file 'file:D:/python/Projeto TCC python/media/videos/obliquo/480p15/partial_movie_files/MovimentoObliquo/624642324_2408024828_2123890812.mp4'
